@@ -1,5 +1,6 @@
-# YOLOV2 on Caffe
-This is an implementation of YOLO v2 inferenced using Caffe (pyCaffe) framework
+# YOLOv2 - Caffe Inference
+This is an implementation of YOLO v2 inference engine using Caffe (pyCaffe) framework. 
+We are not going to train YOLO model from scratch, but convert it using the provided converter instead.
 
 ## What's inside
 - Yolo to Caffe model converter (thanks to [Duangenquan](https://github.com/duangenquan/YoloV2NCS))
